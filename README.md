@@ -1,4 +1,4 @@
-# Swanlog test
+# Swanlog
 
 C++ basic logging system
 
